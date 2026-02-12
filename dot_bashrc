@@ -1,0 +1,4 @@
+[[ $- != *i* ]] && return
+source ~/.local/share/omarchy/default/bash/rc
+
+alias p='python'
