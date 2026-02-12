@@ -2,7 +2,7 @@
 source ~/.local/share/omarchy/default/bash/rc
 
 # Alias
-alias p = 'python'
-alias lg = 'lazygit'
-alias ccd = 'chezmoi cd'
-alias ceddit = 'chezmoi edit --apply'
+alias p='python'
+alias lg='lazygit'
+alias ccd='chezmoi cd'
+alias ceddit='chezmoi edit --apply'
